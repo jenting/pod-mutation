@@ -4,7 +4,7 @@ go 1.22.3
 toolchain go1.23.4
 
 require (
-	github.com/prometheus/client_golang v1.21.0
+	github.com/prometheus/client_golang v1.21.1
 	k8s.io/api v0.32.2
 	k8s.io/apimachinery v0.32.2
 )
