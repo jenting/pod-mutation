@@ -1,12 +1,12 @@
 module github.com/jenting/pod-mutation
 
 go 1.22.3
-toolchain go1.23.4
+toolchain go1.24.1
 
 require (
 	github.com/prometheus/client_golang v1.21.1
 	k8s.io/api v0.32.2
-	k8s.io/apimachinery v0.32.2
+	k8s.io/apimachinery v0.32.3
 )
 
 require (
