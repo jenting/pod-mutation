@@ -1,6 +1,7 @@
 module github.com/jenting/pod-mutation
 
-go 1.22.3
+go 1.24.0
+
 toolchain go1.24.1
 
 require (
